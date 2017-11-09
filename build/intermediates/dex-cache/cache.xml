@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.1_6b21f9d408dcb5590d10241c705711d7a68b21b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\pre-dexed\debug\io.reactivex-rxandroid-1.1.0_8808fad965be282dc00d6c2d3773b607541c47b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sud\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\pre-dexed\debug\gson-2.4_022f5313abb9735a242622871cd5f202fd6faf8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_c97e32f7251d17f9d8354e6db91da76e6ee94e30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sud\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.0.0-beta4\bd49baf667542c7d06f71e598bdee7fe57272013\adapter-rxjava-2.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bd49baf667542c7d06f71e598bdee7fe57272013">
+        <dex dex="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\pre-dexed\debug\adapter-rxjava-2.0.0-beta4_976f75c97f742678bdda94ece676188057b2709a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sud\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_ebed97904f5d67c96258447394f747b37c39a8ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.1_ca226c1e827f5f9e0a5e4be8e9db6ecd1cd5deb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sud\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.0-beta4\739e00dea1f0ac04fdb9b6160d667e23cc50a791\retrofit-2.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="739e00dea1f0ac04fdb9b6160d667e23cc50a791">
+        <dex dex="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\pre-dexed\debug\retrofit-2.0.0-beta4_1c4e815b7c4503cb77670331498b604737162c54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\exploded-aar\com.facebook.stetho\stetho\1.4.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="26b6f0185cbba8917ba9d9d0bd170f95311622ab">
+        <dex dex="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\pre-dexed\debug\com.facebook.stetho-stetho-1.4.1_1b931206f8590a44e50d9956524957da30e4d0b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_083ef019543a5af3781e4bf80581828bdd33018e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_77c619c9737d0cf80165dc8dfef671e1b75f2c44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.1.1_db35923d7a5a6b54ab82577d1c9f2a84ba201e3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_a9999ea79d2a9dcc20d771090fe45be66bf28348.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_79c5f0765609844f8ebfd63eb9c10b99d7be1da2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sud\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.0.1\b34c1f2d993044656e87f88970b6818e99e886ba\okhttp-3.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b34c1f2d993044656e87f88970b6818e99e886ba">
+        <dex dex="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\pre-dexed\debug\okhttp-3.0.1_e974e827851ef206775c5b9032ff8b5bdb468051.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sud\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\pre-dexed\debug\jsr305-2.0.1_b3bbec9b630a9fe61de553da430b03413d90e77d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sud\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.0\7ff0e000d1e27e356567f56c92af3b8ab912636f\picasso-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\pre-dexed\debug\picasso-2.5.0_ba4c44c6ab16100374a24d9fc58a24fa194d6f5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sud\.gradle\caches\modules-2\files-2.1\commons-cli\commons-cli\1.2\2bf96b7aa8b611c177d329452af1dc933e14501c\commons-cli-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\pre-dexed\debug\commons-cli-1.2_5ab77b89d4f01721260fdef55830192e2476a237.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.1_faeccaff74600006ce450ac098fde29dd5966f33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sud\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.0\748f0546d5c3c27f1aef07270ffea0c45f0c42a4\rxjava-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="748f0546d5c3c27f1aef07270ffea0c45f0c42a4">
+        <dex dex="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\pre-dexed\debug\rxjava-1.1.0_55771502d54fe6a0281bf0d05aee8db167433258.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sud\.gradle\caches\modules-2\files-2.1\com.squareup\otto\1.3.8\cf615176cd1177edf71d3c9605f8dc148fede6be\otto-1.3.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cf615176cd1177edf71d3c9605f8dc148fede6be">
+        <dex dex="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\pre-dexed\debug\otto-1.3.8_fbae0f0ba9b2ceeb4b14a3e73881e9dbd86276ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sud\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.0-beta4\de5935a367ba5e343e9df786ac8fc0c7d52b5f0c\converter-gson-2.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="de5935a367ba5e343e9df786ac8fc0c7d52b5f0c">
+        <dex dex="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.0-beta4_c751304b8ac0d46425fe3a434fd356cdf1e2d113.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\exploded-aar\com.android.support\preference-v14\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="082eaf5a8bebe68f147526f16ae3a3e1b40e391e">
+        <dex dex="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\pre-dexed\debug\com.android.support-preference-v14-25.1.1_ce2296ebbd831d56cd76abe575fe537c49019323.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_37a38a66c98d16b85ddc1c7881e6bb872211295e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\exploded-aar\com.android.support\preference-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9078293943d0cf69b4111b7c141456b522a463c1">
+        <dex dex="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\pre-dexed\debug\com.android.support-preference-v7-25.1.1_2d86312df3a6ce06d84bb35415e3e74efa19adfe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\exploded-aar\com.facebook.stetho\stetho-okhttp3\1.4.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7ff6b36b86cc5d50475d396ee60671200dbe419c">
+        <dex dex="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\pre-dexed\debug\com.facebook.stetho-stetho-okhttp3-1.4.1_5ee9115a34ab17a6eca074d94c4b9fc1991289d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_47440aa01b84ce56b374e2ef92048aca740d0142.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_7bf004933f43737c0f782e8a21780319ecc9b3fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sud\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1_d9e9ae6718e93ca1b7445415eaa45ff7fd83c415.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sud\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\pre-dexed\debug\okio-1.6.0_5b22b24569e3fa38431e2c71adaf45587a2e5b69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\Work\Vaishali\Sb\Pro\BusRoute\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_3b2812cf4985c7906085866ee05b99045327cd0e.jar" />
+    </item>
+
+</items>
